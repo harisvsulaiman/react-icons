@@ -7679,7 +7679,7 @@ __metadata:
     enzyme-to-json: ^3.4.3
     react: ^18.2.0
     react-dom: ^18.2.0
-    react-icons: ^4.9.1
+    react-icons: ^4.9.2-snapshot.0
     react-scripts: ^5.0.1
   languageName: unknown
   linkType: soft
@@ -7693,7 +7693,7 @@ __metadata:
     enzyme-to-json: ^3.4.3
     react: ^18.2.0
     react-dom: ^18.2.0
-    react-icons: ^4.9.1
+    react-icons: ^4.9.2-snapshot.0
     react-scripts: ^5.0.1
   languageName: unknown
   linkType: soft
@@ -12943,10 +12943,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lucide-static@npm:^0.220.0":
-  version: 0.220.0
-  resolution: "lucide-static@npm:0.220.0"
-  checksum: 867c097dd05a225d9d4139422f78074356fb317fa81fdb0f75c6fa4ee7bbd08c36f8b646c7a1192fc390c25f84d2ee913eca12143814c53bae0edb469a2cf4df
+"lucide-static@npm:latest":
+  version: 0.299.0
+  resolution: "lucide-static@npm:0.299.0"
+  checksum: d2d575897207e3d796d97aee29bdf1cfd188f3df2f5d69a2bdfd827f1ff2caf058c3529b91b2b1b0d48891f4bb2151414722f0a50435fe1c9705b97095a45aa0
   languageName: node
   linkType: hard
 
@@ -15846,7 +15846,7 @@ __metadata:
     prop-types: ^15.7.2
     react: ^18.2.0
     react-dom: ^18.2.0
-    react-icons: ^4.9.1
+    react-icons: ^4.9.2-snapshot.0
     sass: ^1.55.0
     tiny-skeleton-loader-react: ^1.1.0
     typescript: ^4.8.4
@@ -16225,7 +16225,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"react-icons@^4.9.1, react-icons@workspace:packages/_react-icons_all":
+"react-icons@^4.9.2-snapshot.0, react-icons@workspace:packages/_react-icons_all":
   version: 0.0.0-use.local
   resolution: "react-icons@workspace:packages/_react-icons_all"
   peerDependencies:
@@ -16251,7 +16251,7 @@ __metadata:
     ionicons: ^4.6.3
     ionicons-5: "npm:ionicons@5"
     lerna: ^3.20.2
-    lucide-static: ^0.220.0
+    lucide-static: latest
     octicons: ^8.5.0
     p-queue: ^7.3.0
     prettier: ^2.7.1
@@ -16381,7 +16381,7 @@ __metadata:
     "@types/react-dom": ^18.0.6
     react: ^18.2.0
     react-dom: ^18.2.0
-    react-icons: ^4.9.1
+    react-icons: ^4.9.2-snapshot.0
     react-scripts: 5.0.1
     typescript: 4.8.4
   languageName: unknown
@@ -19585,7 +19585,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "webpack4-test@workspace:packages/webpack4-test"
   dependencies:
-    react-icons: ^4.9.1
+    react-icons: ^4.9.2-snapshot.0
     webpack: ^5.74.0
     webpack-cli: ^4.10.0
   languageName: unknown
